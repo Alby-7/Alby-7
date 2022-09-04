@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data structures**
 
-- 💬 Ask me about **Java , python**
+- 💬 Ask me about **Java , kotlin, C++**
 
 - 📫 How to reach me **albybinu.110@gmail.com**
 
